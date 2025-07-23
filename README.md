@@ -60,13 +60,13 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amrahmed111/" target="_blank">
+  <a href="https://www.linkedin.com/in/amr-elbashtly-b25810222/" target="_blank">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/amrahmed.111/" target="_blank">
-    <img height="30" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram">
+  <a href="https://www.instagram.com/amrelbashatly/" target="_blank">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:amr3ahmed002@gmail.com">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail">
   </a>
 </p>
