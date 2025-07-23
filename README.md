@@ -67,7 +67,7 @@
     <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
   </a>
   <a href="mailto:amr3ahmed002@gmail.com">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail">
+      <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail">
   </a>
 </p>
 
