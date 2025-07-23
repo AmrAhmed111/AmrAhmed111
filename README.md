@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Amr+Ahmed+👋;Full+Stack+Web+Developer;Content+Creator+on+YouTube;Welcome+to+my+GitHub!;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I’m+Amr+Ahmed+👋;Full+Stack+Web+Developer;Content+Creator+on+YouTube;Welcome+to+my+GitHub!;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
@@ -60,9 +60,15 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img height="25" src="images/linkedin.svg" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/" target="_blank"><img height="25" src="images/instagram.svg" alt="Instagram"></a>
-  <a href="mailto:your-email@example.com"><img height="25" src="images/gmail.svg" alt="Email"></a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail">
+  </a>
 </p>
 
 ---
@@ -77,7 +83,3 @@
     <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailabdo&repo=your-project-2&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
-
----
-
-<!-- Feel free to add fun facts, challenges, or blog links -->
