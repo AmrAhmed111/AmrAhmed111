@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ismailabdo.ismailabdo" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amrahmeddev.amrahmeddev" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -31,7 +31,7 @@
   <img title="jQuery" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img title="Vue.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img title="PHP" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img title="Laravel" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+  <img title="Laravel" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img title="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img title="Flutter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img title="Dart" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
@@ -39,6 +39,7 @@
   <img title="C++" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img title="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img title="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img title="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img title="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
 
@@ -47,12 +48,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ismailabdo&show_icons=true&theme=react&hide_border=true&border_color=61dafb" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailabdo&theme=react&hide_border=true&border_color=61dafb" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amrahmeddev&show_icons=true&theme=react&hide_border=true&border_color=61dafb" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amrahmeddev&theme=react&hide_border=true&border_color=61dafb" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailabdo&layout=compact&theme=react&hide_border=true&border_color=61dafb" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrahmeddev&layout=compact&theme=react&hide_border=true&border_color=61dafb" />
 </p>
 
 ---
@@ -60,25 +61,26 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ismailabdo" target="_blank">
+  <a href="https://www.linkedin.com/in/amrahmeddev" target="_blank">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/ismailabdo" target="_blank">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram">
+  <a href="https://www.instagram.com/amrahmeddev" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:ismailabdo@example.com">
+  <a href="mailto:amrahmeddev@gmail.com">
     <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ismailabdo/project1">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailabdo&repo=project1&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/amrahmeddev/project1">
+    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amrahmeddev&repo=project1&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/ismailabdo/project2">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailabdo&repo=project2&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/amrahmeddev/project2">
+    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amrahmeddev&repo=project2&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
