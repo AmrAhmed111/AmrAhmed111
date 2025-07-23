@@ -60,26 +60,25 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/ismailabdo" target="_blank">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/ismailabdo" target="_blank">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram">
   </a>
-  <a href="mailto:your-email@example.com">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail">
+  <a href="mailto:ismailabdo@example.com">
+    <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ismailabdo/your-project-1">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailabdo&repo=your-project-1&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/ismailabdo/project1">
+    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailabdo&repo=project1&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/ismailabdo/your-project-2">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailabdo&repo=your-project-2&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/ismailabdo/project2">
+    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailabdo&repo=project2&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
