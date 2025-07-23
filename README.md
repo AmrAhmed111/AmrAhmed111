@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | 🎥 Content Creator | 💡 Problem Solver
+  👨‍💻 Software Engineer | 🚀 Full Stack Developer | 🎥 Content Creator | 💡 Problem Solver
 </h3>
 
 <p align="center">
