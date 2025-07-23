@@ -61,14 +61,14 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amrahmeddev" target="_blank">
+  <a href="https://www.linkedin.com/in/amrahmed111/" target="_blank">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/amrahmeddev" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/amrahmed.111/" target="_blank">
+    <img height="30" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram">
   </a>
-  <a href="mailto:amrahmeddev@gmail.com">
-    <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:your-email@example.com">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail">
   </a>
 </p>
 
@@ -77,10 +77,10 @@
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/amrahmeddev/project1">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amrahmeddev&repo=project1&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/AmrAhmed111/project-1">
+    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AmrAhmed111&repo=project-1&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/amrahmeddev/project2">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amrahmeddev&repo=project2&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/AmrAhmed111/project-2">
+    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AmrAhmed111&repo=project-2&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
