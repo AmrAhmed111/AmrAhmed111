@@ -40,7 +40,7 @@
   <img title="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img title="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img title="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="30" src="https://raw.githubusercontent.com/abaez/awesome-clips/master/clips.png" alt="CLIPS">
+  <img height="30" src="https://i.ibb.co/vPmxTRg/clips.png" alt="CLIPS">
   <img title="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
 
