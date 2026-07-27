@@ -49,11 +49,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmrAhmed111&show_icons=true&theme=react&hide_border=true&border_color=61dafb" />
+  <img src="https://ghstats.dev/api/card?username=AmrAhmed111&theme=github_dark" width="49%">
+  <img src="https://ghstats.dev/api/languages?username=AmrAhmed111&theme=github_dark" width="49%">
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAhmed111&layout=compact&theme=react&hide_border=true&border_color=61dafb&cache_seconds=3600" />
+  <img src="https://streak-stats.demolab.com?user=AmrAhmed111&theme=github-dark-blue&hide_border=true" width="70%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmrAhmed111&theme=github-dark&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmrAhmed111&theme=algolia&no-frame=true&margin-w=15">
 </p>
 
 ---
