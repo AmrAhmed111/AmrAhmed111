@@ -81,11 +81,36 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/AmrAhmed111/APIs-Graduation">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AmrAhmed111&repo=APIs-Graduation&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/AmrAhmed111/Responsive-Clothing">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AmrAhmed111&repo=Responsive-Clothing&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 APIs Graduation
+Backend APIs for Graduation Project built with Laravel.
+
+🔹 Laravel  
+🔹 REST API  
+🔹 MySQL  
+
+<a href="https://github.com/AmrAhmed111/APIs-Graduation">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 👕 Responsive Clothing
+Responsive Clothing Website using HTML, CSS & JavaScript.
+
+🔹 HTML5  
+🔹 CSS3  
+🔹 JavaScript  
+
+<a href="https://github.com/AmrAhmed111/Responsive-Clothing">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
