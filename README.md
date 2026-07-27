@@ -48,21 +48,59 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=AmrAhmed111&theme=github_dark" width="49%">
-  <img src="https://ghstats.dev/api/languages?username=AmrAhmed111&theme=github_dark" width="49%">
-</p>
+<h1 align="center">Hi 👋, I'm Amr Ahmed</h1>
+<h3 align="center">Full Stack Laravel Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmrAhmed111&theme=github-dark-blue&hide_border=true" width="70%">
+  <a href="https://github.com/AmrAhmed111">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Laravel+Developer;PHP+%7C+Laravel+%7C+MySQL;JavaScript+%7C+Vue.js;Always+Learning+New+Technologies" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmrAhmed111&theme=github-dark&hide_border=true">
-</p>
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmrAhmed111&theme=algolia&no-frame=true&margin-w=15">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,vue,php,laravel,mysql,git,github,vscode,postman,figma" />
+
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+<a href="https://github.com/AmrAhmed111"><img src="https://skillicons.dev/icons?i=github"></a>
+<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="mailto:YOURMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AmrAhmed111&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+## 💻 Quote
+
+<p align="center">
+
+> "First, solve the problem. Then, write the code."
+
 </p>
 
 ---
