@@ -49,16 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrAhmed111&theme=github_dark" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmrAhmed111&theme=github_dark" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmrAhmed111&theme=github_dark" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmrAhmed111&theme=github_dark" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmrAhmed111&show_icons=true&theme=dark" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAhmed111&layout=compact&theme=dark" width="49%" alt="Top Languages" />
 </p>
 
 ---
