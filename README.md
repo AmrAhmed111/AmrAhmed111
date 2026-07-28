@@ -49,8 +49,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrAhmed111&show_icons=true&theme=dark" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAhmed111&layout=compact&theme=dark" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmrAhmed111&show_icons=true&theme=tokyonight&hide_border=true"     width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmrAhmed111&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrAhmed111&theme=tokyonight&hide_border=true" width="98%" alt="GitHub   Streak" />
 </p>
 
 ---
