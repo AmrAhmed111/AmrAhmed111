@@ -48,17 +48,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrAhmed111&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAhmed111&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmrAhmed111&theme=github-dark&hide_border=true" />
-</p>
+![GitHub Stats](https://raw.githubusercontent.com/AmrAhmed111/AmrAhmed111/main/assets/github-stats.svg)
 
 ---
 
