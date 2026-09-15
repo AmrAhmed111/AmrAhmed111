@@ -48,19 +48,24 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=AmrAhmed111&theme=tokyonight&hide_border=true"
-    width="49%"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=AmrAhmed111&layout=compact&theme=tokyonight&hide_border=true"
-    width="49%"
-    alt="Top Languages"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=AmrAhmed111&theme=tokyonight&hide_border=true"
+        width="450"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=AmrAhmed111&layout=compact&theme=tokyonight&hide_border=true"
+        width="450"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
